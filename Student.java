@@ -21,6 +21,5 @@ System.out.println("Double:"+c);
 System.out.println("Character:"+d);
 System.out.println("Boolean:"+e);
 System.out.println("String:"+f);
-sc.close();
 }
 }
